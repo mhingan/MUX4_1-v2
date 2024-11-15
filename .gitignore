@@ -1,0 +1,14 @@
+gitignore
+   *.jou
+   *.log
+   *.str
+   *.xrpt
+   *.rpt
+   *.tcl
+   *.cache/
+   *.hw/
+   *.ip_user_files/
+   *.sim/
+   *.runs/
+   *.gen/
+   *.sdk/
